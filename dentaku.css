@@ -1,0 +1,47 @@
+
+
+#result{
+  background-color: black;
+  color:white;
+  text-align:right;
+  width: 360px;
+  height: 30px;
+  font-size: 100%;
+}
+
+
+button{
+  text-align: center;
+  font-family:sans-serif;
+  /*padding: 6px 35px;*/
+  /*margin:2px 0;*/
+  /*中の間隔ではなくボタンの幅と高さ*/
+  width:90px;
+  height:30px;
+  /*box-sizing:border-box;*/
+  /*paddingとborderがwidthとheightの中に含まれる。*/
+  font-size: 110%;
+  border-radius:8px;
+  border-width:thin;
+  border-color:black;
+  margin:1px -2px 1px 0;
+  background-color:#CCCCCC;
+ 
+}
+
+
+#ac{
+  font-family:sans-serif;
+  width:182px;
+  height:30px;
+  font-size: 90%;
+  background-color:#CCCCCC;
+}
+
+#equal{
+  font-family:sans-serif;
+  width:182px;
+  height:30px;
+  font-size: 90%;
+  background-color:#CCCCCC;
+}
